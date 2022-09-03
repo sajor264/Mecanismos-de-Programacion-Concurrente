@@ -1,0 +1,2 @@
+--------------------------------------------------------------------------------
+Tiempo promedio de las multiplicaciones: 0 segundos(582 microsegundos)
